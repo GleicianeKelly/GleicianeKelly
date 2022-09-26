@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Atualmente sou estudante de análise e desenvolvimento de sistemas
+- 🔭 Desenvolvedora Pleno e graduanda em Análise e Desenvolvimento de Sistemas
 - 🌱 HTML|CSS|Javascript|Java
 - 👯 Aceito sugestões de melhorias para meus códigos
 - 📫 Linkedin: https://www.linkedin.com/in/gleicianekelly/
