@@ -2,8 +2,8 @@
 
 
 
-- 🔭 Desenvolvedora Pleno e graduanda em Análise e Desenvolvimento de Sistemas
-- 🌱 HTML|CSS|Javascript|Java
+- 🔭 Desenvolvedora Pleno e graduada em Análise e Desenvolvimento de Sistemas
+- 🌱 Java
 - 👯 Aceito sugestões de melhorias para meus códigos
 - 📫 Linkedin: https://www.linkedin.com/in/gleicianekelly/
 - ⚡ Curiosidades: Fã da Mariah Carey
